@@ -14,7 +14,7 @@ The dataset includes ad spend, impressions, clicks, value and others from **Goog
 
 ## Results
 **query_1. Daily spending**  
-[![Dashboard Screenshot](Dashboard 1.png)] (https://public.tableau.com/views/query_17563955596260/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+[![Dashboard Screenshot](project1/Dashboard 1.png)] (https://public.tableau.com/views/query_17563955596260/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 **query_2. Top 5 days in terms of ROMI across all channels**  
 |    Data    |      ROMI  |
