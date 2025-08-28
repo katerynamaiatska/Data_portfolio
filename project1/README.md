@@ -6,7 +6,7 @@
 This project demonstrates how to use SQL queries to analyze the effectiveness of digital marketing campaigns.  
 The dataset includes ad spend, impressions, clicks, value and others from **Google Ads** and **Facebook Ads**.
 ## Tasks
-**query_1** - Search for aggregated metrics on daily spending in Google and Facebook  
+**query_1** - Search for aggregated metrics on daily spending in Google and Facebook. Visualized result using Tableau  
 **query_2** - Analysis of the top 5 days in terms of ROMI across all channels  
 **query_3** - Analysis to find the company generating the highest revenue in a week  
 **query_4** - Analysis of the company showing the largest month-to-month increase in reach  
