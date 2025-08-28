@@ -13,6 +13,8 @@ The dataset includes ad spend, impressions, clicks, value and others from **Goog
 **query_5** - Determine the maximum uninterrupted display period, including the associated ad campaign and its start date.
 
 ## Results
+Determined high-performing campaigns, assessed optimal periods, and evaluated ad spend efficiency.  
+
 **query_1. Daily spending**  
 ![Dashboard Screenshot](https://github.com/katerynamaiatska/Data_portfolio/blob/main/project1/Dashboard%201.png?raw=true)
 Interactive dashboard (https://public.tableau.com/views/query_17563955596260/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
