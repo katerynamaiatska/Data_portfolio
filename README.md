@@ -13,3 +13,4 @@ I use SQL for data extraction, cleaning, and transformation, and complement it w
 - Excel
 
 ## Projects
+### [1. Analysis of Online Campaign Details](./project1)
