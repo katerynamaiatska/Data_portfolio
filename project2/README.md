@@ -14,5 +14,5 @@ Performed data cleaning and created a ranking of user requests. Built visualizat
 - Аnalyze ROMI behavior.
 - Identify the correlation between numerical performance metrics.  
 ## File
-1. [CleanData_Python.ipynb](project2/CleanData_Python.ipynb)
-2. 
+1. [Data cleaning and manipulation](project2/CleanData_Python.ipynb)
+2. [Visualisation](project2/Visual_Python.ipynb)
