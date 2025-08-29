@@ -1,23 +1,23 @@
 # Goal: Marketing Campaign Effectiveness Analysis
 **Project type:** Educational  
 **Data:** Simulated dataset from training course (Google & Facebook Ads performance)  
-**Tools:** DBeaver (PostgreSQL)
+**Tools:** DBeaver (PostgreSQL), Tableau 
 ## Description 
 This project demonstrates how to use SQL queries to analyze the effectiveness of digital marketing campaigns.  
 The dataset includes ad spend, impressions, clicks, value and others from **Google Ads** and **Facebook Ads**.
 ## Tasks
-[Daily spending]() - Search for aggregated metrics on daily spending in Google and Facebook. Visualized result using Tableau  
-[Top 5] - Analysis of the top 5 days in terms of ROMI across all channels  
-[The campaign with the highest revenue] - Analysis to find the campaign generating the highest revenue in a week  
-[The campaign with the largest increase in reach] - Analysis of the campaign showing the largest month-to-month increase in reach  
-[The campaign with maximum uninterrupted display period] - Determine the maximum uninterrupted display period, including the associated ad campaign and its start date.
+[Daily spending](project1/query_1.sql) - Search for aggregated metrics on daily spending in Google and Facebook. Visualized result using Tableau  
+[Top 5](project1/query_2.sql) - Analysis of the top 5 days in terms of ROMI across all channels  
+[The highest revenue](project1/query_3.sql) - Analysis to find the campaign generating the highest revenue in a week  
+[The largest increase in reach](project1/query_4.sql) - Analysis of the campaign showing the largest month-to-month increase in reach  
+[The maximum uninterrupted display period](project1/query_5.sql) - Determine the maximum uninterrupted display period, including the associated ad campaign and its start date.
 
 ## Results
 Determined high-performing campaigns, assessed optimal periods, and evaluated ad spend efficiency.  
 
 **Daily spending**  
-![Dashboard Screenshot](https://github.com/katerynamaiatska/Data_portfolio/blob/main/project1/Dashboard%201.png?raw=true)
-Interactive dashboard (https://public.tableau.com/views/query_17563955596260/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+![Dashboard Screenshot](https://github.com/katerynamaiatska/Data_portfolio/blob/main/project1/Dashboard%201.png?raw=true)  
+[Interactive dashboard](https://public.tableau.com/views/query_17563955596260/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 **Top 5 days in terms of ROMI across all channels**  
 |    Date    |      ROMI  |
