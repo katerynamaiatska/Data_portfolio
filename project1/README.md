@@ -17,7 +17,7 @@ Determined high-performing campaigns, assessed optimal periods, and evaluated ad
 
 **Daily spending**  
 ![Dashboard Screenshot](https://github.com/katerynamaiatska/Data_portfolio/blob/main/project1/Dashboard%201.png?raw=true)  
-[Interactive dashboard](https://public.tableau.com/views/query_17563955596260/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+[Interactive dashboard](https://public.tableau.com/views/query_1/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 **Top 5 days in terms of ROMI across all channels**  
 |    Date    |      ROMI  |
