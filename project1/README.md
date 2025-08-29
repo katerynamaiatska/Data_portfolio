@@ -6,11 +6,11 @@
 This project demonstrates how to use SQL queries to analyze the effectiveness of digital marketing campaigns.  
 The dataset includes ad spend, impressions, clicks, value and others from **Google Ads** and **Facebook Ads**.
 ## Tasks
-[Daily spending](/query_1.sql) - Search for aggregated metrics on daily spending in Google and Facebook. Visualized result using Tableau  
-[Top 5](/query_2.sql) - Analysis of the top 5 days in terms of ROMI across all channels  
-[The highest revenue](/query_3.sql) - Analysis to find the campaign generating the highest revenue in a week  
-[The largest increase in reach](/query_4.sql) - Analysis of the campaign showing the largest month-to-month increase in reach  
-[The maximum uninterrupted display period](/query_5.sql) - Determine the maximum uninterrupted display period, including the associated ad campaign and its start date.
+[Daily spending](query_1.sql) - Search for aggregated metrics on daily spending in Google and Facebook. Visualized result using Tableau  
+[Top 5](query_2.sql) - Analysis of the top 5 days in terms of ROMI across all channels  
+[The highest revenue](query_3.sql) - Analysis to find the campaign generating the highest revenue in a week  
+[The largest increase in reach](query_4.sql) - Analysis of the campaign showing the largest month-to-month increase in reach  
+[The maximum uninterrupted display period](query_5.sql) - Determine the maximum uninterrupted display period, including the associated ad campaign and its start date.
 
 ## Results
 Determined high-performing campaigns, assessed optimal periods, and evaluated ad spend efficiency.  
