@@ -10,7 +10,7 @@ Performed data cleaning and created a ranking of user requests. Built visualizat
 - Calculated a ranking of each submitted application based on predefined criteria.
 - Identified which applications were accepted.  
 2. **Visualisation**
-- Build a chart of daily expenses.
+- Build a chart of daily spend.
 - Аnalyze ROMI behavior.
 - Identify the correlation between numerical performance metrics.  
 ## File
