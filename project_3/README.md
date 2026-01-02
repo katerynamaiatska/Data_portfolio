@@ -10,7 +10,7 @@
 2. **Visualisation**
  
 ## File
-1. [Data manipulation](project_3/Project_SQL_RevenueMetrics.sql)
+1. [Data manipulation](Project_SQL_RevenueMetrics.sql)
 2. [Visualisation](https://public.tableau.com/app/profile/kateryna.maiatska/viz/Project_2_Revenue_Metrics/RevenueMetrics)
 
 ## Note
