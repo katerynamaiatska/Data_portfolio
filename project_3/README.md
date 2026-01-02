@@ -7,10 +7,10 @@
 Dashboard for interactive visualization and analysis of metrics 
 
 ## Tasks 
-1. **Data manipulation**
+1. **Data manipulation**  
  The query was implemented as a CTE using window functions. The following metrics were calculated: MRR, New MRR, New Paid Users, Churned MRR, Churned Users, Expansion MRR, Contraction MRR, Returning MRR, Returning Users.
 
-2. **Visualisation**
+2. **Visualisation**  
  Calculation in Tableau of the remaining metrics: ARPPU, LT, LTV, Paid Users, Churned Users Rate, Churned MRR Rate. Visualization of the results on the dashboard with added filters for month, user age, and user language.
 
 ## File
