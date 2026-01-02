@@ -1,10 +1,9 @@
-# Goal: Used  
+# Goal: Create a dashboard for a product manager with the goal of analyzing revenue from the project, tracking its dynamics, and performing high-level analysis of changes.  
 **Project type:** Educational  
-**Data:** The dataset used in this project is from a training SQL database and cannot be shared publicly due to access restrictions.
+**Data:** The dataset used in this project is from a training SQL database and cannot be shared publicly due to access restrictions.  
 **Tools:** SQL (PostgreSQL), Tableau
 ## Description
-Create a dashboard for a product manager with the goal of analyzing revenue from the project, tracking its dynamics, and performing high-level 
-analysis of changes. The project includes SQL queries for data selection, transformation, and preparation. 
+ The project includes SQL queries for data selection, transformation, and preparation. 
 Dashboard for interactive visualization and analysis of metrics 
 
 ## Tasks 
