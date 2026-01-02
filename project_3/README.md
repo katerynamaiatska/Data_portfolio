@@ -10,8 +10,9 @@
 2. **Visualisation**
  
 ## File
-1. [Data manipulation](CleanData_Python.ipynb)
-2. [Visualisation]
+1. [Data manipulation](project_3/Project_SQL_RevenueMetrics.sql)
+2. [Visualisation](https://public.tableau.com/app/profile/kateryna.maiatska/viz/Project_2_Revenue_Metrics/RevenueMetrics)
+
 ## Note
 This project was educational, aiming to demonstrate Python and analytical skills.
 
