@@ -16,3 +16,4 @@ I use SQL for data extraction, cleaning, and transformation, and complement it w
 Here are some of my learning projects:  
 **1. [Analysis of Online Campaign Details](./project1) (SQL)**  
 **2. [Data cleaning, manipulation and visualisation](./project2) (Python)**
+**3. [Revenue Metrics]() (SQL, Tableau)**
