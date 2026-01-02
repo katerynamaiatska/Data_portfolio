@@ -26,5 +26,5 @@ Dashboard for interactive visualization and analysis of metrics
 2. The project demonstrated that a systematic approach to collecting, visualizing, and interpreting product metrics is an effective tool for decision-making, enabling improved business process performance and identifying pathways for development.
   
 ## Note
-This project was educational, aiming to demonstrate Python and analytical skills.
+This project was educational, aiming to demonstrate SQL, Tableau and analytical skills.
 
